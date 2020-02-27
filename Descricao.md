@@ -2,4 +2,4 @@
 
 **Para acessar o jogo entre em:** https://gabrielvf1.github.io/SpaceInvaders/
 
-<h8>FUNCIONALIDADES ADICIONADAS:<h8>
+*<h6>FUNCIONALIDADES ADICIONADAS:<h6>*
